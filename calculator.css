@@ -10,7 +10,7 @@
 }
 .calculator td
 {
-        height:16.66%;
+        height:20.0%;
 }
 .calc_td_result
 {
@@ -18,7 +18,7 @@
 }
 .calc_result
 {
-        width:90%;
+        width:80%;
         text-align:right;
 }
 .calc_td_calculs
@@ -40,5 +40,6 @@
         width:90%;
         height:90%;
         font-size:20px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
